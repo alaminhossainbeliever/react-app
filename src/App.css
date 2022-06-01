@@ -24,10 +24,6 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +31,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1{
+  color:#fff;
+  background-image: linear-gradient(to right, rgb(216, 75, 47),rgb(154, 41, 198));
+  padding: 50px;
+  border-radius: 10px;
+}
+h2{
+  border: 1px solid red;
+  padding: 20px;
 }
